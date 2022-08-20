@@ -1,3 +1,0 @@
-console
-rich
-pyrogram==2
